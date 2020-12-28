@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mn.spring.boot</groupId>
-	<artifactId>spring-boot-circuit-breaker-resilience-inventory</artifactId>
+	<artifactId>spring-boot-circuit-breaker-resilience-order</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-circuit-breaker-resilience-inventory</name>
+	<name>spring-boot-circuit-breaker-resilience-order</name>
 
 	<properties>
 		<java.version>1.8</java.version>
